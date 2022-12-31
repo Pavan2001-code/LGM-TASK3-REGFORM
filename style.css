@@ -1,0 +1,25 @@
+.f_title {
+    
+    color:rgb(0, 6, 4);
+    text-align:center;
+    font-size: 40px;
+    font-weight:bold;
+    padding-top: 10px;
+
+}
+.container {
+    width: 500px;
+}
+.bg {
+    background-color:rgba(13, 172, 74, 0.443);
+
+}
+.card {
+    height: 100vh;
+    background-color: #f3f6f4;
+    background-image: linear-gradient(30deg, #62d364b7 0%, #844cd8cd 100%);
+}
+.btn-warning {
+    background-color: #85ffbd;
+    background-image: linear-gradient(30deg, #62d364b7 0%, #844cd8cd 100%);
+}
